@@ -1,0 +1,3 @@
+[ERROR] 2018-04-27 23:05:00,339                       util.WeixinUtil     - 获取token失败 errcode:40013 errmsg:invalid appid hint: [l2d04943064]
+  [ERROR] 2018-04-27 23:05:34,461                       util.WeixinUtil     - 获取token失败 errcode:40013 errmsg:invalid appid hint: [J7HjcA05281512]
+  
